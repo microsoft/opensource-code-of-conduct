@@ -1,4 +1,4 @@
-Code of Conduct FAQ
+# Code of Conduct FAQ
 
 
 ## Why have a Code of Conduct?
