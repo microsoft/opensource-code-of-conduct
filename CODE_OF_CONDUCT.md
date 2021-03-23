@@ -1,4 +1,4 @@
-# Contributor Covenant Code of Conduct
+# Microsoft Open Source Code of Conduct
 
 ## Our Pledge
 
