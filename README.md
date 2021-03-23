@@ -4,7 +4,7 @@ This repository provides markdown versions of Microsoft's Open Source Code of Co
 version lives
 at opensource.microsoft.com.  
 
-Feedback is welcome until April 9th, 2021.  
+Feedback on current proposals is welcome until April 9th, 2021.  
 
 ## Proposed Updates
 We have two proposed updates.
