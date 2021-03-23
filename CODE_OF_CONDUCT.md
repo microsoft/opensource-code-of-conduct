@@ -63,7 +63,7 @@ We encourage all communities to resolve issues on their own whenever possible.
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported to the community leaders responsible for enforcement at
 opencode@microsoft.com.
-Your report will be handled in accordance with the issue resolution process described in the [Code of Conduct FAQ](#).
+Your report will be handled in accordance with the issue resolution process described in the [Code of Conduct FAQ](FAQ.md).
 
 All community leaders are obligated to respect the privacy and security of the
 reporter of any incident.
