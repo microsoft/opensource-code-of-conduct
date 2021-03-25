@@ -59,7 +59,7 @@ Examples of representing our community include using an official e-mail address,
 posting via an official social media account, or acting as an appointed
 representative at an online or offline event.
 
-## Enforcement
+## Enforcement and Reporting
 
 We encourage all communities to resolve issues on their own whenever possible. 
 
@@ -68,7 +68,7 @@ reported to the community leaders responsible for enforcement at
 opencode@microsoft.com.
 Your report will be handled in accordance with the issue resolution process described in the [Code of Conduct FAQ](FAQ.md).
 
-All community leaders are obligated to respect the privacy and security of the
+All project and community leaders are obligated to respect the privacy and security of the
 reporter of any incident.
 
 This Code of Conduct is adapted from the [Contributor Covenant][homepage],
