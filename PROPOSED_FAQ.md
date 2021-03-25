@@ -62,7 +62,7 @@ Coordinator verifies that selected team members are not involved in the issue an
 
 Step 4: Resolution
 
-Resolution Team to works with to solve the issue **Reporter**.
+Resolution Team to works with to solve the issue **with the Reporter**.
 Resolution Team contacts Originator to collect information as needed, agree on appropriate steps, and drive resolution.
 ```
 
