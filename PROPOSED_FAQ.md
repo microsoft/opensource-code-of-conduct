@@ -74,5 +74,3 @@ Beyond the norms and values set out in the Code of Conduct, issue review teams o
 * **Independence** -  Reviewers must act and be seen to act with independence from the project(s) in question and from Microsoft.
 * **Consequence** - If a report is validated by the resolution team, appropriate consequences will be applied. These can be very minimal(written warning) or serious (full ban) depending on the violation.  Repeated violations will result in escalation of consequence.
 
-## Where can I ask questions about this or other Microsoft Open Source governance?
-opencode@microsoft.com is the best alias for questions.
