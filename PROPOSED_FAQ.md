@@ -69,9 +69,9 @@ Resolution Team contacts Originator to collect information as needed, agree on a
 ## How does the resolution team work?
 Beyond the norms and values set out in the Code of Conduct, issue review teams operate under the following principles:
 
-* **Equality** — Contribution value or status in the community are not relevant to the review. Key people do not have more rights (either to abuse or be protected from abuse) than others in the community.
+* **Equality** - Contribution value or status in the community are not relevant to the review. Key people do not have more rights (either to abuse or be protected from abuse) than others in the community.
 *  **Safety, Privacy** - Safety and privacy of all involved are at the center of resolution procedure.
-* **Independence** — Reviewers must act and be seen to act with independence from the project(s) in question and from Microsoft.
+* **Independence** -  Reviewers must act and be seen to act with independence from the project(s) in question and from Microsoft.
 * **Consequence** - If a report is validated by the resolution team, appropriate consequences will be applied. These can be very minimal(written warning) or serious (full ban) depending on the violation.  Repeated violations will result in escalation of consequence.
 
 ## Where can I ask questions about this or other Microsoft Open Source governance?
