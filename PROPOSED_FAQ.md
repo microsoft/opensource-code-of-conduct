@@ -9,7 +9,7 @@ While conduct issues seldom arise, when they do, they are often very public and 
 * An Issue **Resolution Process** for addressing cases where these norms are not being maintained.
 
 ## Why this Code of Conduct?
-The Microsoft Open Source Code of Conduct is an instantiation of the [Contributor's Covenant](https://www.contributor-covenant.org/) template, that captures the Microsoft culture of equality, respect and inclusion. By leveraging this template, which is used by [many open source projects](https://www.contributor-covenant.org/adopters/), we acknowledge both the opportunity and responsibility to contribute to its evolution.
+The Microsoft Open Source Code of Conduct is an instantiation of the [Contributor's Covenant 2.0](https://www.contributor-covenant.org/), that captures the Microsoft culture of equality, respect and inclusion. By leveraging this template, which is used by many [many open source projects](https://www.contributor-covenant.org/adopters/), we acknowledge both the opportunity gained by leveraging a community-based effort for inclusion,  and responsibility to contribute to its evolution.
 
 ## Why do this across all repos?
 Having one code and process is both efficient and consistent — community members can participate in any Microsoft-driven project and be confident that they know the norms and that they are supported by a robust process.
