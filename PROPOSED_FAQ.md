@@ -35,7 +35,7 @@ Projects in the .NET Foundation are already covered by the .NET Foundation Contr
 If you have witnessed or been subjected to a violation of the Code of Conduct, please send an email to opencode@microsoft.com. Your message will be handled in a secure and confidential manner. This email address is monitored by the Open Source Program's Office, who are not directly active in open source projects or communities — so you can be sure that you are not communicating with a person involved in the issue you are reporting. You will receive a response within one business day acknowledging receipt of your email and describing the process for its resolution. (See below for more details.)
 
 ## What is the process for addressing issues that arise?
-Emails sent to opencode@microsoft.com kick off the following process:
+Emails sent to opencode@microsoft.com, or reported reictly to a member of the OSPO team, will kick off the following process::
 
 Your message will be acknowledged within one business day.
 Within the following business day, a small, 2-3, person team will be assembled from a pool of Microsoft employee volunteers to review your concern. This team will be as diverse as possible given its size and will pull in additional people as needed to gain further insight and provide guidance. The team will not include anyone directly involved in the issue that has been raised.
