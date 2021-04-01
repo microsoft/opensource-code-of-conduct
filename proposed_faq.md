@@ -15,16 +15,9 @@ The Microsoft Open Source Code of Conduct is an instantiation of the [Contributo
 Having one code and process is both efficient and consistent — community members can participate in any Microsoft-driven project and be confident that they know the norms and that they are supported by a robust process.
 
 ## How does a project adopt the code and process?
-All Microsoft projects are automatically covered by the Code of Conduct and the Issue Resolution Process. However, it is critical that everyone in the communities be aware of the code and process. For that reason, all projects must link to the Code of Conduct in their CODE_OF_CONDUCT and/or CONTRIBUTING files using the following markdown.
+All Microsoft projects are automatically covered by the Code of Conduct and the Issue Resolution Process. However, it is critical that everyone in the communities be aware of the code and process. For that reason, all projects must link to the Code of Conduct. 
 
-```
-This project has adopted the [Microsoft Open Source Code of
-Conduct](https://opensource.microsoft.com/codeofconduct/).
-For more information see the [Code of Conduct
-FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
-contact [opencode@microsoft.com](mailto:opencode@microsoft.com)
-with any additional questions or comments.
-```
+Please refer to [repository standard for CODE_OF_CONDUCT.md](https://github.com/microsoft/repo-templates/blob/main/shared/CODE_OF_CONDUCT.md) for the current version.
 
 ## What if my Microsoft project already has a Code of Conduct?
 Thanks for being proactive in this important area. You are welcome to continue using your existing Code of Conduct, but are strongly encouraged to adopt Microsoft Open Source Code of Conduct to align with ongoing education and standards development. Either way, all Microsoft projects must use the same issue resolution process. Please ensure that your documentation and guidance is updated to point people at the process outlined in this FAQ (see below).
