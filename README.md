@@ -2,9 +2,7 @@
 
 This repository provides markdown versions of Microsoft's Open Source Code of Conduct, and related documents for the purpose of feedback (issues, PRS).  The live/published 
 version lives
-at opensource.microsoft.com.  
-
-Feedback on current proposals is welcome until April 9th, 2021.  
+at opensource.microsoft.com.   
 
 ## Proposed Updates
 We have two proposed updates.
@@ -19,5 +17,7 @@ to another document". That document for Microsoft is our FAQ.
 [This is a proposed update](FAQ.md) to the FAQ and reflect updates in the code of conduct itself.
 
 
+# Microsoft Code of Conduct (Markdown Versions)
 
-
+This repository provides markdown versions of Microsoft's Open Source Code of Conduct, and related documents for the purpose of engaging with non-confidential feedback (issues, PRS).  The live/published 
+version lives at [opensource.microsoft.com](https://opensource.microsoft.com/codeofconduct/).  
