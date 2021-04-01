@@ -34,6 +34,8 @@ Projects in the .NET Foundation are already covered by the .NET Foundation Contr
 ## How do I raise a concern?
 If you have witnessed or been subjected to a violation of the Code of Conduct, please send an email to opencode@microsoft.com. Your message will be handled in a secure and confidential manner. This email address is monitored by the Open Source Program's Office, who are not directly active in open source projects or communities — so you can be sure that you are not communicating with a person involved in the issue you are reporting. You will receive a response within one business day acknowledging receipt of your email and describing the process for its resolution. (See below for more details.)
 
+**NOTE**: this process is not appropriate for reporting spamming, please reach out to GitHub organization support for these issues.
+
 ## What is the process for addressing issues that arise?
 Emails sent to opencode@microsoft.com, or reported reictly to a member of the OSPO team, will kick off the following process::
 
