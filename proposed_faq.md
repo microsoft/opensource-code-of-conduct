@@ -30,7 +30,7 @@ If you have witnessed or been subjected to a violation of the Code of Conduct, p
 **NOTE**: this process is not appropriate for reporting spamming, please reach out to GitHub organization support for these issues.
 
 ## What is the process for addressing issues that arise?
-Emails sent to opencode@microsoft.com, or reported reictly to a member of the OSPO team, will kick off the following process::
+Emails sent to opencode@microsoft.com, or reported directly to a member of the OSPO team, will kick off the following process::
 
 Your message will be acknowledged within one business day.
 Within the following business day, a small, 2-3, person team will be assembled from a pool of Microsoft employee volunteers to review your concern. This team will be as diverse as possible given its size and will pull in additional people as needed to gain further insight and provide guidance. The team will not include anyone directly involved in the issue that has been raised.
