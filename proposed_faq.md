@@ -38,28 +38,20 @@ Within the following business day, a small, 2-3, person team will be assembled f
 From there team will work with you and the others involved to come to a conclusion. While issue complexity varies, the goal is to resolve issues within five working days.
 All communication will be confidential with very limited circulation.
 
+Here's an overview of the steps in the process:
 
-```
-Step 1: Issue Reported
-
-Reporter reports issue via email to opencode@microsoft.com
-Email address is published with Code of Conduct, linked from every Microsoft Open Source project’s repo.
-
-Step 2: Acknowledgment
-
-Coordinator acknowledges to Reporter receipt of issue
-Coordinator replies via email to set expectations and explain the resolution process.
-
-Step 3: Assignment
-
-Coordinator assigns 2-3 person Resolution Team to issue
-Coordinator verifies that selected team members are not involved in the issue and are available to provide timely resolution.
-
-Step 4: Resolution
-
-Resolution Team to works with to solve the issue **with the Reporter**.
-Resolution Team contacts Originator to collect information as needed, agree on appropriate steps, and drive resolution.
-```
+1. Issue Reported
+   * Reporter reports issue via email to opencode@microsoft.com
+   * Email address is published with Code of Conduct, linked from every Microsoft Open Source project’s repo.
+2. Acknowledgment
+   * Coordinator acknowledges to Reporter receipt of issue
+   * Coordinator replies via email to set expectations and explain the resolution process.
+3. Assignment
+   * Coordinator assigns 2-3 person Resolution Team to issue
+   * Coordinator verifies that selected team members are not involved in the issue and are available to provide timely resolution.
+4. Resolution
+   * Resolution Team to works with to solve the issue **with the Reporter**.
+   * Resolution Team contacts Originator to collect information as needed, agree on appropriate steps, and drive resolution.
 
 ## How does the resolution team work?
 Beyond the norms and values set out in the Code of Conduct, issue review teams operate under the following principles:
