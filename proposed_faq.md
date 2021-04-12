@@ -27,15 +27,15 @@ Projects in the .NET Foundation are already covered by the .NET Foundation Contr
 ## How do I raise a concern?
 If you have witnessed or been subjected to a violation of the Code of Conduct, please send an email to opencode@microsoft.com. Your message will be handled in a secure and confidential manner. This email address is monitored by the Open Source Program's Office, who are not directly active in open source projects or communities — so you can be sure that you are not communicating with a person involved in the issue you are reporting. You will receive a response within one business day acknowledging receipt of your email and describing the process for its resolution. (See below for more details.)
 
-**NOTE**: this process is not appropriate for reporting spamming, please reach out to GitHub organization support for these issues.
+**NOTE**: this process is not appropriate for reporting spamming. Please reach out to GitHub support for these issues.
 
 ## What is the process for addressing issues that arise?
-Emails sent to opencode@microsoft.com, or reported directly to a member of the OSPO team, will kick off the following process::
+Emails sent to opencode@microsoft.com or reported directly to a member of the OSPO team, will kick off the following process:
 
 Your message will be acknowledged within one business day.
-Within the following business day, a small, 2-3, person team will be assembled from a pool of Microsoft employee volunteers to review your concern. This team will be as diverse as possible given its size and will pull in additional people as needed to gain further insight and provide guidance. The team will not include anyone directly involved in the issue that has been raised.
+Within the following business day, a small (2-3) person team will be assembled from a pool of Microsoft employee volunteers to review your concern. This team will be as diverse as possible given its size and will pull in additional people as needed to gain further insight and provide guidance. The team will not include anyone directly involved in the issue that has been raised.
 
-From there team will work with you and the others involved to come to a conclusion. While issue complexity varies, the goal is to resolve issues within five working days.
+From there the team will work with you and the others involved to come to a conclusion. While issue complexity varies, the goal is to resolve issues within five working days.
 All communication will be confidential with very limited circulation.
 
 Here's an overview of the steps in the process:
@@ -57,9 +57,9 @@ Here's an overview of the steps in the process:
 Beyond the norms and values set out in the Code of Conduct, issue review teams operate under the following principles:
 
 * **Equality** - Contribution value or status in the community are not relevant to the review. Key people do not have more rights (either to abuse or be protected from abuse) than others in the community.
-*  **Safety, Privacy** - Safety and privacy of all involved are at the center of resolution procedure.
+*  **Safety & Privacy** - Safety and privacy of all involved are at the center of resolution procedure.
 * **Independence** -  Reviewers must act and be seen to act with independence from the project(s) in question and from Microsoft.
-* **Consequence** - If a report is validated by the resolution team, appropriate consequences will be applied. These can be very minimal(written warning) or serious (full ban) depending on the violation.  Repeated violations will result in escalation of consequence.
+* **Consequence** - If a report is validated by the resolution team, appropriate consequences will be applied. These can be very minimal (written warning) or serious (full ban) depending on the violation. Repeated violations will result in escalation of consequence.
 
 
 // Copyright (c) Microsoft Corporation.
