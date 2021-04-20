@@ -62,5 +62,4 @@ Beyond the norms and values set out in the Code of Conduct, issue review teams o
 * **Consequence** - If a report is validated by the resolution team, appropriate consequences will be applied. These can be very minimal (written warning) or serious (full ban) depending on the violation. Repeated violations will result in escalation of consequence.
 
 
-// Copyright (c) Microsoft Corporation.
 // Licensed under the CC-BY-4.0 license.
