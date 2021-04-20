@@ -61,6 +61,8 @@ Examples of representing our community include using an official e-mail address,
 posting via an official social media account, or acting as an appointed
 representative at an online or offline event.
 
+This Code of Conduct also applies to actions taken outside of these spaces, and which have a negative impact on community health.  
+
 ## Enforcement and Reporting
 
 We encourage all communities to resolve issues on their own whenever possible.
